@@ -12,3 +12,32 @@
     // code to be executed
   }
 */
+function helloMessage(){
+  echo "This is a message<br>";
+}
+helloMessage();
+
+function addingFunction($num1, $num2){
+  $sum=$num1+$num2;
+  echo "print $sum";
+}
+addingFunction(50,20);
+
+function myName($fname){
+  $mynames=$fname;
+  echo "print $mynames";
+}
+myName("Jacqueline");
+
+function subtractingFunction($numb1, $numb2){
+  $subtraction=$numb1-$numb2;
+  echo "print $subtraction";
+}
+
+
+function multiplicationFunction($no1, $no2){
+  $multiplication=$no1*$no2;
+  echo "print $multiplication";
+}
+
+

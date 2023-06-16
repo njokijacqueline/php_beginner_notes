@@ -92,4 +92,25 @@ if($number<2){
   echo "the number is zero";
 }
 
-//what do you use to key in data in php
+
+$favfood="pilau";
+switch($favfood){
+  case'githeri':
+      echo "my favorite food is githeri";
+    break;
+    case'ugali':
+      echo "my favorite food is ugali";
+      break;
+      case 'omena':
+        echo "my favorite food is omena";
+      break;
+      case 'uji':
+        echo "my favorite food is uji";
+        break;
+        default:
+        echo("my favourite food is pilau");
+
+
+    
+  
+}
