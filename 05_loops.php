@@ -40,7 +40,7 @@ while($value<=5){
   // code to be executed
   } while (condition);
 
-do...while loop will always execute the block of code once, even if the condition is false.
+do...while loop will always execute the block of code once, even if the condition is false
 */
 $number=10;
 do{

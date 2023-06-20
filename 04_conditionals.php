@@ -81,7 +81,7 @@ if($miaka<20){
 {
   echo "can vote <br>";
 }
-//write a simple php program to check whether a number is positive negative or a zero
+//write a simple php program to check whether a number is positive negative or a zero.
 $number=0;
 if($number<2){
   echo "the number is negative <br>";

@@ -24,5 +24,5 @@ print_r($fruits);
 //Removing an element from an array
 array_pop($fruits);//Function to remove last element in the array
 array_shift($fruits);//Function to remove the first element in an array
-unset($fruits[2]);//Removes specific element in an array
+unset($fruits[2]);//Removes specific element in an array.
 print_r($fruits);

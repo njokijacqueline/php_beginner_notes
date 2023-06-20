@@ -8,7 +8,7 @@
 
 $string="Hello world";
 
-//Getting the length of the string
+//Getting the length of the strings
 echo strlen($string);
 
 
