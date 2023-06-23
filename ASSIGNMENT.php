@@ -96,23 +96,7 @@ echo"<br>";
 /* QUESTION 7
 Create a script to construct the following pattern, using nested for loop.
 */
-$n=5;
-for($i=1; $i<=$n; $i++)
-{
-for($j=1; $j<=$i; $j++)
-{
-echo ' * ';
-}
-echo '\n';
-}
-for($i=$n; $i>=1; $i--)
-{
-for($j=1; $j<=$i; $j++)
-{
-echo ' * ';
-}
-echo '\n ';
-}
+
 
 /* QUESTION 8
 
